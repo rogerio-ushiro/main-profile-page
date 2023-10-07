@@ -1,17 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rogerio Ushiro</h1>
 
-10 highlights:
-- Front-end programming since 2007, back-end since 2009.
-- Reactive Frameworks: Angular2+, ReactJS, ElectronJS, Dart/Flutter
-- Object-oriented programming: JS, TS, JAVA, AS2, AS3
-- Java Experience in Spring MVC and Spring Boot
-- Experience in designing and developing RESTful web services by using Java and NodeJS
-- Cloud: AWS (Lambda, API Gateway, IAM, EC2, S3, RDS) and Google Cloud Firebase
-- Database: SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Redis, DynamoDB)
-- English: working at IBM and studied at Kaplan International English (Perth/Australia) in 2015
-- OS: Ubuntu Server, Ubuntu , Windows, and Mac
-- Citizenship: Brazilian and Italian.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rushiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushiro" height="30" width="40" /></a>
